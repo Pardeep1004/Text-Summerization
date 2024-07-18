@@ -1,4 +1,4 @@
-# End to End Text-Summerization Project
+# Text-Summerization Project
 
 ## Workflows
 
